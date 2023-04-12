@@ -1,3 +1,5 @@
 {
     "displayName": "TMP117",
+    "i2cAddresses": [ "0x48" ],
+    "subcomponents": [ "ambient-temp", "ambient-temp-fahrenheit" ]
 }
